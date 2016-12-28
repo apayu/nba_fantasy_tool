@@ -1,3 +1,7 @@
+1.use nba_api_wrapper get NBA stats
+
+https://github.com/jrmils89/nba_api_wrapper
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,4 +26,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-nba fantasy tool

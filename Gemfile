@@ -31,10 +31,11 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-gem 'nba_api_wrapper', :git => 'git://github.com/jrmils89/nba_api_wrapper.git'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'nba_api_wrapper', :git => 'git://github.com/jrmils89/nba_api_wrapper.git'
+gem 'react-rails', '~> 1.5'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
